@@ -2,27 +2,15 @@
 
 > A curated list of Miniflux themes, clients, and utilities.
 
-
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Clients](#clients)
 
+## Clients
 
-## Section
+### Web
 
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [@reminiflux/reminiflux](https://github.com/reminiflux/reminiflux) - An alternative web frontend for Miniflux, Reminiflux offers a look and feel which is more similar to Google Reader and TT-RSS.
 
 
 ## Contribute
