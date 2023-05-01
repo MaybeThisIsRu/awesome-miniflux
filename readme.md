@@ -12,6 +12,12 @@
 ### Web
 
 - [@reminiflux/reminiflux](https://github.com/reminiflux/reminiflux) - An alternative web frontend for Miniflux, Reminiflux offers a look and feel which is more similar to Google Reader and TT-RSS.
+- [fluxjs](https://github.com/PascalNoisette/fluxjs) - A responsive web frontend alternative for Miniflux.
+
+### Android
+
+- [Miniflutt](https://github.com/DocMarty84/miniflutt) - An Android client for Miniflux feed reader
+- [news](https://github.com/bubelov/news) - Feed Reader and Podcast Player for Android
 
 ## Themes
 
