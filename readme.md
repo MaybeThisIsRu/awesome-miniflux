@@ -4,15 +4,8 @@
 
 ## Contents
 
-- [Clients](#clients)
 - [Themes](#themes)
 - [Tools](#tools)
-
-## Clients
-
-### Web
-
-- [@reminiflux/reminiflux](https://github.com/reminiflux/reminiflux) - An alternative web frontend for Miniflux, Reminiflux offers a look and feel which is more similar to Google Reader and TT-RSS.
 
 ## Themes
 
