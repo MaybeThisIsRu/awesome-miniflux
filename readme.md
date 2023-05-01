@@ -11,7 +11,7 @@
 
 - [miniflux-theme-midnight](https://github.com/ronilaukkarinen/miniflux-theme-midnight) -  A dark Miniflux theme that aims to be the most readable and modern minimal Miniflux theme out there. 
 - [Nord dark theme for Miniflux](https://github.com/kgarner7/miniflux-nord-theme) - A Nord dark theme adapted for Miniflux.
-- [miniflux-theme-pure](https://github.com/fengkx/miniflux-theme-pure) - A custom CSS for Miniflux v2
+- [miniflux-theme-pure](https://github.com/fengkx/miniflux-theme-pure) - A custom CSS for Miniflux v2.
 
 ## Tools
 - [miniflux-injector](https://github.com/Sevichecc/miniflux-injector) - A browser extension that injects search results from the Miniflux bookmark service into search pages such as Google and DuckDuckGo.
