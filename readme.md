@@ -14,6 +14,7 @@
 - [Nord dark theme for Miniflux](https://github.com/kgarner7/miniflux-nord-theme) - A Nord dark theme adapted for Miniflux.
 - [miniflux-theme-pure](https://github.com/fengkx/miniflux-theme-pure) - A custom CSS for Miniflux v2.
 - [Catppuccin Miniflux Theme](https://github.com/catppuccin/miniflux) - A Catppuccin theme for Miniflux v2
+- [MMM-Miniflux](https://github.com/CuSO4Deposit/MMM-Miniflux) - A MagicMirror² module that displays articles from your Miniflux instance on a smart mirror.
 
 ## Tools
 
